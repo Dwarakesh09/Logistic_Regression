@@ -133,6 +133,7 @@ Developed as a beginner Machine Learning project using Python and Scikit-learn.
 
 This project is open-source and available under the MIT License.
 
-##Contact
+---
+## Contact
 
-For any inquries contact
+For inquiries, please reach out to [Dwarakesh09](https://github.com/Dwarakesh09).
