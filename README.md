@@ -124,6 +124,7 @@ Logistic Regression is a supervised machine learning algorithm used for classifi
 ## Author
 
 @Dwarakesh09
+
 Developed as a beginner Machine Learning project using Python and Scikit-learn.
 
 ---
@@ -131,3 +132,7 @@ Developed as a beginner Machine Learning project using Python and Scikit-learn.
 ## License
 
 This project is open-source and available under the MIT License.
+
+##Contact
+
+For any inquries contact
